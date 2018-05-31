@@ -1,44 +1,44 @@
-### [https://www.MyEtherWallet.com](https://www.MyEtherWallet.com)
+### [https://wallet.echoex.io](https://wallet.echoex.io)
+Based on [myetherwallet](https://www.myetherwallet.com/)
 
-### [Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm)
 
-### [Download the Latest Release](https://github.com/kvhnuke/etherwallet/releases/latest)
+### [Download the Latest Release](https://github.com/echochain/echo-wallet/releases/latest)
 
 - etherwallet-vX.X.X.X.zip is the smaller package containing the gh-pages branch aka MyEtherWallet.com
 - chrome-extension-vX.X.X.X.zip is the chrome extension package
 - source code is the full source for developers to get started with (although cloning or forking the mercury branch is probably a better choice)
 
 ### Live verify files
-Check gh-pages files against live website at https://www.myetherwallet.com
+Check gh-pages files against live website at https://wallet.echoex.io
 
 | File Name| Status|
 |---|---|
-| index.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/index.html&remoteFile=https://www.myetherwallet.com/index.html)| 
-| embedded.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/embedded.html&remoteFile=https://www.myetherwallet.com/embedded.html)|  
-| helpers.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/helpers.html&remoteFile=https://www.myetherwallet.com/helpers.html)|
-| signmsg.html |![signmsg.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/signmsg.html&remoteFile=https://www.myetherwallet.com/signmsg.html)|
-| bin/startMEW.js |![startMEW.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/bin/startMEW.js&remoteFile=https://www.myetherwallet.com/bin/startMEW.js)|
-| css/etherwallet-master.min.css |![etherwallet-master.min.css](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/css/etherwallet-master.min.css&remoteFile=https://www.myetherwallet.com/css/etherwallet-master.min.css)|
-| fonts/Lato-Bold.woff |![Lato-Bold.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Bold.woff&remoteFile=https://www.myetherwallet.com/fonts/Lato-Bold.woff)|
-| fonts/Lato-Light.woff |![Lato-Bold.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Light.woff&remoteFile=https://www.myetherwallet.com/fonts/Lato-Light.woff)|
-| fonts/Lato-Regular.woff |![Lato-Regular.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/fonts/Lato-Regular.woff&remoteFile=https://www.myetherwallet.com/fonts/Lato-Regular.woff)|
-| js/etherwallet-master.js |![etherwallet-master.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/etherwallet-master.js&remoteFile=https://www.myetherwallet.com/js/etherwallet-master.js)|
-| js/etherwallet-static.min.js |![etherwallet-static.min.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/etherwallet-static.min.js&remoteFile=https://www.myetherwallet.com/js/etherwallet-static.min.js)|
-| js/jquery-1.12.3.min.js |![jquery-1.12.3.min.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/kvhnuke/etherwallet/gh-pages/js/jquery-1.12.3.min.js&remoteFile=https://www.myetherwallet.com/js/jquery-1.12.3.min.js)|
+| index.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/index.html&remoteFile=https://wallet.echoex.io/index.html)| 
+| embedded.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/embedded.html&remoteFile=https://wallet.echoex.io/embedded.html)|  
+| helpers.html |![embedded.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/helpers.html&remoteFile=https://wallet.echoex.io/helpers.html)|
+| signmsg.html |![signmsg.html](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/signmsg.html&remoteFile=https://wallet.echoex.io/signmsg.html)|
+| bin/startMEW.js |![startMEW.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/bin/startMEW.js&remoteFile=https://wallet.echoex.io/bin/startMEW.js)|
+| css/etherwallet-master.min.css |![etherwallet-master.min.css](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/css/etherwallet-master.min.css&remoteFile=https://wallet.echoex.io/css/etherwallet-master.min.css)|
+| fonts/Lato-Bold.woff |![Lato-Bold.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/fonts/Lato-Bold.woff&remoteFile=https://wallet.echoex.io/fonts/Lato-Bold.woff)|
+| fonts/Lato-Light.woff |![Lato-Bold.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/fonts/Lato-Light.woff&remoteFile=https://wallet.echoex.io/fonts/Lato-Light.woff)|
+| fonts/Lato-Regular.woff |![Lato-Regular.woff](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/fonts/Lato-Regular.woff&remoteFile=https://wallet.echoex.io/fonts/Lato-Regular.woff)|
+| js/etherwallet-master.js |![etherwallet-master.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/js/etherwallet-master.js&remoteFile=https://wallet.echoex.io/js/etherwallet-master.js)|
+| js/etherwallet-static.min.js |![etherwallet-static.min.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/js/etherwallet-static.min.js&remoteFile=https://wallet.echoex.io/js/etherwallet-static.min.js)|
+| js/jquery-1.12.3.min.js |![jquery-1.12.3.min.js](https://filechecker.myetherwallet.com/check?localFile=https://raw.githubusercontent.com/echochain/echo-wallet/gh-pages/js/jquery-1.12.3.min.js&remoteFile=https://wallet.echoex.io/js/jquery-1.12.3.min.js)|
 
 ### MEW Around the Web
 
-- [Website: https://www.myetherwallet.com/](https://www.myetherwallet.com/)
+- [Website: https://wallet.echoex.io/](https://wallet.echoex.io/)
 - [CX: https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm)
 - [Anti-phish CX](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
 - [FB: https://www.facebook.com/MyEtherWallet/](https://www.facebook.com/MyEtherWallet/)
 - [Twitter: https://twitter.com/myetherwallet](https://twitter.com/myetherwallet)
 - [Medium: https://medium.com/@myetherwallet](https://medium.com/@myetherwallet)
 - [Help Center: https://myetherwallet.groovehq.com/help_center](https://myetherwallet.groovehq.com/help_center)
-- [Github MEW Repo: https://github.com/kvhnuke/etherwallet](https://github.com/kvhnuke/etherwallet)
+- [Github MEW Repo: https://github.com/echochain/echo-wallet](https://github.com/echochain/echo-wallet)
 - [Github MEW Org: https://github.com/MyEtherWallet](https://github.com/MyEtherWallet)
 - [Github Pages URL: https://kvhnuke.github.io/etherwallet/](https://kvhnuke.github.io/etherwallet/)
-- [Github Latest Releases: https://github.com/kvhnuke/etherwallet/releases/latest](https://github.com/kvhnuke/etherwallet/releases/latest)
+- [Github Latest Releases: https://github.com/echochain/echo-wallet/releases/latest](https://github.com/echochain/echo-wallet/releases/latest)
 - [Github Anti-phish CX: https://github.com/409H/EtherAddressLookup](https://github.com/409H/EtherAddressLookup)
 - [Slack: https://myetherwallet.slack.com/ & https://myetherwallet.herokuapp.com/](https://myetherwallet.slack.com/ & https://myetherwallet.herokuapp.com/)
 - [Reddit: https://www.reddit.com/r/MyEtherWallet/](https://www.reddit.com/r/MyEtherWallet/)
@@ -76,8 +76,8 @@ Check gh-pages files against live website at https://www.myetherwallet.com
     - tokenSymbol=[ARC | ICN | MKR | ....]
     - gasLimit=[number] OR gas=[number]
     - data=[hex data]
-    - Example 1: https://www.myetherwallet.com/?to=0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D&value=1&tokenSymbol=REP&gaslimit=50000#send-transaction
-    - Example 2: https://www.myetherwallet.com/?to=0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D&value=1&gaslimit=23000&data=0x5468616e6b20796f752c204d455720322e30#send-transaction
+    - Example 1: https://wallet.echoex.io/?to=0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D&value=1&tokenSymbol=REP&gaslimit=50000#send-transaction
+    - Example 2: https://wallet.echoex.io/?to=0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D&value=1&gaslimit=23000&data=0x5468616e6b20796f752c204d455720322e30#send-transaction
 
 
 
@@ -100,7 +100,7 @@ Check gh-pages files against live website at https://www.myetherwallet.com
 - [It is recommended you start here.](https://myetherwallet.github.io/knowledge-base/getting-started/getting-started-new.html)
 - You can run MyEtherWallet.com on your computer. You can create a wallet completely offline & send transactions from the "Offline Transaction" page.
 
-1. Go to https://github.com/kvhnuke/etherwallet/releases/latest.
+1. Go to https://github.com/echochain/echo-wallet/releases/latest.
 2. Click on dist-vX.X.X.X.zip.
 3. Move zip to an airgapped computer.
 4. Unzip it and double-click index.html.
@@ -137,7 +137,7 @@ If you want to help contribute, here's what you need to know to get it up and ru
 - `layouts` are the pages themselves. These basically take all the pieces of the pages and compile into one massive page. The navigation is also found here...sort of.
     * `index.html` is for MyEtherWallet.com.
     * `cx-wallet.html` is the main page for the Chrome Extension.
-    * `embedded.html` is for https://www.myetherwallet.com/embedded.html.
+    * `embedded.html` is for https://wallet.echoex.io/embedded.html.
 
 - You can control what shows up on MyEtherWallet.com vs the Chrome Extension by using: `@@if (site === 'cx' )  {  ...  }` and `@@if (site === 'mew' ) { ... }`. Check out `sendTransaction.tpl` to see it in action. The former will only compile for the Chrome Extension. The latter only to MyEtherWallet.com.
 - `embedded.html` is for embedding the wallet generation into third-party sites. [Read more about it and how to listen for the address generated here.](https://www.reddit.com/r/ethereum/comments/4gn37o/embeddable_myetherwallet_super_simple_wallet/)
@@ -162,7 +162,7 @@ If you want to help contribute, here's what you need to know to get it up and ru
 
 **Old**
 
-- https://github.com/kvhnuke/etherwallet/issues/226.
+- https://github.com/echochain/echo-wallet/issues/226.
 
 - [Announcing MyEtherWallet v3.4: The Node Switcher](https://www.reddit.com/r/ethereum/comments/5lqx90/announcing_myetherwallet_v34_the_node_switcher/)**
 
@@ -185,7 +185,7 @@ If you want to help contribute, here's what you need to know to get it up and ru
 Anyone can help out and it looks way more complicated than it is! If you would rather not deal with Github, please send us an email to info@myetherwallet.com and I'll email you the file and you can make changes and send it back to us and I'll make sure you don't screw anything up. If you feel like experiencing something new, read on!
 
 1. Sign into your Github account or make a new Github account.
-2. Go to https://github.com/kvhnuke/etherwallet/tree/mercury/app/scripts/translations
+2. Go to https://github.com/echochain/echo-wallet/tree/mercury/app/scripts/translations
 3. Click on the language file you want to update.
 4. Look in the upper right. Click the pencil icon. This will then tell you, *"You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request."* Ignore it all.
 5. In your browser, start translating. Translate as little or as much as you want.
@@ -199,7 +199,7 @@ Anyone can help out and it looks way more complicated than it is! If you would r
 
 **If you are a developer and familiar with GitHub, Pull Requests, and know how to save a JS file as a .js file rather than a Word Doc:**
 
-1. Clone the [mercury branch](https://github.com/kvhnuke/etherwallet/tree/mercury).
+1. Clone the [mercury branch](https://github.com/echochain/echo-wallet/tree/mercury).
 2. Go to `/app/scripts/translations/`.
 3. Open the language you want to translate.
 4. Translate as much or as little as you wish.
