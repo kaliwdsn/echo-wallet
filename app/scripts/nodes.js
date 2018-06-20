@@ -51,8 +51,8 @@ nodes.nodeList = {
         'tokenList': require('./tokens/echoTokens.json'),
         'abiList': require('./abiDefinitions/echoAbi.json'),
         'estimateGas': true,
-        'service': '47.95.69.46:8545',
-        'lib': new nodes.customNode('http://47.95.69.46:8545', '')
+        'service': 'infura.echoex.io',
+        'lib': new nodes.customNode('https://infura.echoex.io', '')
     },
     'eth_mew': {
         'name': 'ETH',
